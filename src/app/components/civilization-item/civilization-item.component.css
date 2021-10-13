@@ -1,0 +1,9 @@
+:host{
+    float: left;
+    width: 23%;
+    box-sizing: border-box;
+    margin: 1%;
+    padding: 8px;
+    background-color: #ededed;
+    height: 300px;
+}
